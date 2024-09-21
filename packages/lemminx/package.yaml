@@ -21,6 +21,9 @@ source:
     - target: linux_x64_gnu
       file: lemminx-linux.zip
       bin: lemminx-linux
+    - target: linux_arm64_gnu
+      file: lemminx-linux.zip
+      bin: lemminx-linux
     - target: [win_x86, win_x64]
       file: lemminx-win32.zip
       bin: lemminx-win32.exe
