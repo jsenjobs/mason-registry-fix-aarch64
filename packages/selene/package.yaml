@@ -11,7 +11,7 @@ categories:
   - Linter
 
 source:
-  id: pkg:github/joske/selene@0.27.2
+  id: pkg:github/jsenjobs/selene-fix-aarch64@0.27.2
   # fix aarch64
   # id: pkg:github/Kampfkarren/selene@0.27.1
   asset:
