@@ -23,7 +23,7 @@ source:
       bin: selene
     - target: linux_arm64_gnu
       file: selene-{{version}}-linux-aarch64.zip
-      bin: lemminx-linux
+      bin: selene
     - target: win_x64
       file: selene-{{version}}-windows.zip
       bin: selene.exe
